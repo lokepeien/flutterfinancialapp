@@ -1,4 +1,4 @@
-# f4
+# Flutter financial app
 
 A new Flutter project.
 
